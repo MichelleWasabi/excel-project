@@ -1,0 +1,25 @@
+{
+  "name": "techknowgirl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichelleWasabi/excel-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichelleWasabi/excel-project/issues"
+  },
+  "homepage": "https://github.com/MichelleWasabi/excel-project#readme",
+  "dependencies": {
+    "gatsby": "^2.19.43",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
