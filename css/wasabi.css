@@ -1,3 +1,7 @@
 .navbar-links {
   float: right;
 }
+
+.h2-hero {
+  margin-bottom: 1rem !important;
+}
